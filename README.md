@@ -1,2 +1,13 @@
-# AI-Driven-Anomaly-Detection-in-Component-Burn-In-Screening
- An AI/ML-based system for detecting latent defects and abnormal behavior in electronic components during burn-in testing. The project analyzes time-series parametric data, applies dynamic anomaly detection, and uses predictive regression to forecast 168-hour parameter values and identify component drift for early rejection.
+
+# 🔍 AI-Driven Anomaly Detection in Component Burn-In & Screening
+
+🤖 **AI/ML-based system** for detecting latent defects and abnormal component behavior during burn-in testing.
+
+📊 **Key Features**
+
+* ⚡ Dynamic anomaly detection from time-series parametric data
+* 📈 Predictive regression for forecasting **168-hour** parameter values
+* 🔎 Component drift detection and early failure identification
+* 🛡️ Supports reliable and explainable component screening
+
+🛠️ **Technology Stack:** Python • Pandas • NumPy • Scikit-learn • Matplotlib • Machine Learning • Time-Series Analysis • Anomaly Detection • Predictive Regression
